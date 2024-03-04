@@ -1,3 +1,2 @@
 #!/bin/bash
-#in line code
 python3 -c  “$PYCODE”
